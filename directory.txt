@@ -1,15 +1,15 @@
-D - Anuales - 2025-05-05 22:58:01
-  D - 2023 - 2025-05-05 22:58:01
-    F - balance-anual.xlsx - 2025-04-30 13:00:47
-    F - informe-gastos.pdf - 2025-04-30 13:00:47
-    D - Trimestres - 2025-05-05 22:58:01
-      D - Q1 - 2025-04-30 13:00:44
-      D - Q2 - 2025-04-30 13:00:44
-  D - 2024 - 2025-04-30 13:00:44
-D - Facturación - 2025-05-05 22:58:01
-  D - Clientes - 2025-04-30 13:00:46
-  D - Proveedores - 2025-04-30 13:00:46
-D - Nóminas - 2025-05-05 22:58:01
-  D - Empleados - 2025-05-05 22:58:01
-    D - Enero - 2025-04-30 13:00:45
-    D - Febrero - 2025-04-30 13:00:45
+D - Anuales - 05/05/2025
+  D - 2023 - 05/05/2025
+    F - balance-anual.xlsx - 30/04/2025
+    F - informe-gastos.pdf - 30/04/2025
+    D - Trimestres - 05/05/2025
+      D - Q1 - 30/04/2025
+      D - Q2 - 30/04/2025
+  D - 2024 - 30/04/2025
+D - Facturación - 05/05/2025
+  D - Clientes - 30/04/2025
+  D - Proveedores - 30/04/2025
+D - Nóminas - 05/05/2025
+  D - Empleados - 05/05/2025
+    D - Enero - 30/04/2025
+    D - Febrero - 30/04/2025
